@@ -1,5 +1,5 @@
-# m3u-JJ#EXTM3U
-#EXTINF:-1 tvg-id="Colombia - A&E Mundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento", A&E (Lat) HD
+#  # EXTM3U
+#EXTINF: -1 tvg-id = "Colombia - A&E Mundo HD" tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A % 26E_Network_logo.svg.png "group-title =" Entretenimiento ", A&E (Lat)
 http://bigplaytv.com:8000/KEVINRODAS1404/cuHUreBlXn/2566
 
 #EXTINF:-1 tvg-id="Mexico - A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento", A&E (MX) HD
